@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-dokimastiko hello world 
+dokimastiko hello world. 
